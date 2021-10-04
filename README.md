@@ -6,7 +6,7 @@ Link to walkthrough Videos:
 
 ## Description 
 
-Hello! This project was built using node.js, and several node packages including express and sequelize. This app's purpose was to test my ability to code a program that uses object relational mapping to connect to a SQL database using javascript, and interact with that database through GET, POST, PUT, and DELETE requests on a server built with express. In my video walkthrough, I use the insomnia app to test if this database is able to be interacted with on the live server. Thanks!
+Hello! This project was built using node.js, and several node packages including express and sequelize. This app's purpose was to test my ability to code a program that uses object relational mapping to connect to a SQL database using javascript and interact with that database through CRUD operations. In my video walkthrough, I use the insomnia app to test GET, POST, PUT, and DELETE requests my server to demonstrate that the CRUD operations interact with the database in real time. 
 
 
 ## Table of Contents
